@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "aire-pro",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
